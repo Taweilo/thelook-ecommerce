@@ -30,94 +30,69 @@ TheLook is a fictitious eCommerce clothing site developed by the Looker team. Th
 
 
 ## 2. Objective
-The goal is to utilize SQL queries to delve into the dataset and extract valuable insights that can enhance business performance for Adidas. This includes areas such as sales optimization, marketing effectiveness, and supply chain management efficiency.
+The goal is to utilize SQL queries to delve into the dataset and extract valuable insights that can enhance business performance for theLook. This includes areas such as sales optimization, marketing effectiveness, and supply chain management efficiency.
 
 ## 3. Analysis
 ### 1) Overall KPI 
-- Compared with Competitors in 2024 Jan
-     
-| Brand         | Total Revenue ($) | Total Cost ($) | Gross Profit ($) | Market Share (%) |
-|---------------|---------------|------------|--------------|------------------|
-| Adidas        | 1623.87       | 682.8      | 941.07       | 29%              |
-| New Balance   | 50.25         | 26.96      | 23.29        | 1%               |
-| Nike          | 1820.58       | 879.08     | 941.5        | 32%              |
-| Puma          | 782.01        | 346.22     | 435.79       | 14%              |
-| Reebok        | 361           | 156.98     | 204.02       | 6%               |
-| Under Armour  | 1057.31       | 475.51     | 581.8        | 19%              |
+- Performance in 2024 Jan
+| Total revenue ($) | Total_cost ($) | Gross Profit ($) |
+|--------------|------------|--------------|
+|   429657.13  |  206967.73 |   222689.4   |     
 
-Total overall revenue: 5695.02
 
 - Adidas regional performance in 2024 Jan
-  
-| Country        | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
-|----------------|---------------|------------|--------------|
-| Belgium        | 903           | 375.65     | 527.35       |
-| China          | 240.88        | 102.91     | 137.97       |
-| Brasil         | 154           | 63.11      | 90.89        |
-| United States  | 136           | 60.11      | 75.89        |
-| Japan          | 67.99         | 32.36      | 35.63        |
-| United Kingdom | 55            | 21.99      | 33.01        |
-| France         | 42            | 16.3       | 25.7         |
-| Germany        | 25            | 10.38      | 14.62        |
+| Country         | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
+|-----------------|---------------|------------|--------------|
+| China           | 138467.32     | 66301.64   | 72165.68     |
+| United States   | 100700.23     | 48801.18   | 51899.05     |
+| Brasil          | 68657.79      | 33080.71   | 35577.08     |
+| South Korea     | 24216.06      | 11705.37   | 12510.69     |
+| France          | 19089.77      | 9207.04    | 9882.73      |
+| Germany         | 18142.38      | 8816.84    | 9325.54      |
+| United Kingdom  | 18110.54      | 8781.01    | 9329.53      |
+| Spain           | 14955.57      | 7135.92    | 7819.65      |
+| Japan           | 10533.59      | 5087.42    | 5446.17      |
+| Australia       | 9433.03       | 4496.55    | 4936.48      |
+| Belgium         | 6197.96       | 2996.5     | 3201.46      |
+| Poland          | 1002.05       | 492.47     | 509.58       |
+| Colombia        | 150.84        | 65.08      | 85.76        |
+
 
 ### 2) Sales trends
 
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/2.%20Sales%20Trend.jpg">
 
-| Time   | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
-|--------|---------------|------------|--------------|
-| 2023-01| 653.74        | 281.38     | 372.36       |
-| 2023-02| 453.73        | 206.91     | 246.82       |
-| 2023-03| 390.11        | 163.15     | 226.96       |
-| 2023-04| 440.15        | 181.56     | 258.59       |
-| 2023-05| 867.98        | 421.19     | 446.79       |
-| 2023-06| 598.77        | 263.04     | 335.73       |
-| 2023-07| 817.9         | 360.38     | 457.52       |
-| 2023-08| 691.95        | 293.02     | 398.93       |
-| 2023-09| 348.8         | 170.47     | 178.33       |
-| 2023-10| 1276.68       | 605.4      | 671.28       |
-| 2023-11| 839.52        | 361.42     | 478.1        |
-| 2023-12| 1952.84       | 865.8      | 1087.04      |
-| 2024-01| 1623.87       | 682.8      | 941.07       |
+| Year | Month | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
+|------|-------|---------------|------------|--------------|
+| 2024 | 1     | 429657.13     | 206967.73  | 222689.4     |
+| 2023 | 12    | 366083.04     | 175276.49  | 190806.55    |
+| 2023 | 11    | 341790.55     | 163669.56  | 178120.99    |
+| 2023 | 10    | 312906.78     | 150547.74  | 162359.05    |
+| 2023 | 9     | 291911.42     | 140918.17  | 150993.25    |
+| 2023 | 8     | 276600.05     | 133256.34  | 143343.71    |
+| 2023 | 7     | 273314.5      | 130706.16  | 142608.34    |
+| 2023 | 6     | 236056.66     | 112967.63  | 123089.03    |
+| 2023 | 5     | 235039.45     | 113266.13  | 121773.32    |
+| 2023 | 4     | 222483.69     | 107225.3   | 115258.39    |
+| 2023 | 3     | 198496.66     | 94973.58   | 103523.08    |
+| 2023 | 2     | 178984.28     | 85470.73   | 93513.56     |
+| 2023 | 1     | 182464.59     | 87242.47   | 95222.12     |
+
 
 
 ### 3) Product performance
    
 - top 10 adidas's popular product
   
-| Product ID | Name                                                         | Purchase Frequency | Category    |
-|------------|--------------------------------------------------------------|--------------------|-------------|
-| 16106      | Adidas Golf Men's ClimaLite 3-Stripes Cuff Polo Sport Shirt. A76 | 3                  | Tops & Tees |
-| 18264      | adidas Team Speed Crew Sock                                   | 2                  | Active      |
-| 2594       | Adidas Womens Lightweight Trefoil Track Jacket                | 2                  | Active      |
-| 2545       | adidas Women's Response Drei Streifen Short-Sleeve Tee        | 2                  | Active      |
-| 18555      | Adidas Mens Sueded Hooded Fleece Pullover Hoodie Gray        | 1                  | Active      |
-| 18541      | adidas Men's Athletic Stretch 2-Pack Trunk                    | 1                  | Active      |
-| 24768      | adidas Men's Climalite II Low Cut Sock (2-Pack)               | 1                  | Socks       |
-| 2785       | adidas Women's Superlite II No Show Sock (6-Pack)             | 1                  | Active      |
-| 2914       | adidas Women's Response Tee                                   | 1                  | Active      |
-| 18623      | adidas Men's Athletic Comfort Climalite 2-Pack Boxer Brief    | 1                  | Active      |
+
 
 - top 10 adidas's cancelled product
   
-| Product ID | Name                                                           | Cancelled Frequency | Category |
-|------------|----------------------------------------------------------------|---------------------|----------|
-| 18715      | adidas Men's Tech Fleece Pullover Hoodie                         | 1                   | Active   |
-| 18054      | adidas Men's 3 Stripe Pant                                       | 1                   | Active   |
-| 18550      | adidas Men's Response Drei Streifen Sleeveless Tee                | 1                   | Active   |
-| 2542       | Adidas Womens CLIMALITE Lightweight Athletic Long Sleeve V-neck Tee Shirt | 1             | Active   |
-| 18515      | adidas Men's Techfit Powerweb Short-Sleeve Tee                    | 1                   | Active   |
-| 18267      | Adidas Condivo Men`s Training Pants                               | 1                   | Active   |
-| 3059       | adidas Women's Response DS Short-Sleeve Tee W Short-Sleeve Top    | 1                   | Active   |
+
 
 - top 10 adidas's returned product
   
-| Product ID | Name                                                       | Returned Frequency | Category |
-|------------|------------------------------------------------------------|--------------------|----------|
-| 3042       | Adidas Ladies 3-stripe Long Sleeve Athletic V-neck Tee White | 1                  | Active   |
-| 18670      | Adidas Mens Athletic LAX Shorts                              | 1                  | Active   |
-| 2426       | adidas Women's Tiro 11 Training Pant                         | 1                  | Active   |
-| 18204      | adidas Men's Sport Performance Climalite 2-Pack Trunk        | 1                  | Active   |
+
 
 
 ### 4) Customer profile
@@ -127,50 +102,24 @@ Total overall revenue: 5695.02
 
 - Country profile
   
-| Country        | Customer Number |
-|----------------|-----------------|
-| China          | 11              |
-| Brasil         | 5               |
-| United States  | 5               |
-| France         | 1               |
-| Australia      | 1               |
-| South Korea    | 1               |
+
 
 - Gender profile
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/4.%20Gender%20Profile.jpg">
 
 - Buying Behavior
   
-| Metric          | Value |
-|-----------------|-------|
-| AOV  ($)           | 33.98 |
-| APF  ($)           | 1.0   |
-| Customer Value ($)  | 33.98 |
 
 
-| Metric         | Average Value |
-|----------------|---------------|
-| Avg_recency (Day)   | 13.38         |
-| Avg_frequency (Times)  | 1.0           |
-| Avg_monetary ($)  | 36.91         |
+
 
 ### 5) Delivery efficiency
-|      | Avg. Lead Time (Day) | Avg. Shipping Duration (Day)|
-|------|----------------|-----------------------|
-| 2024-01 | 3.56           | 3.08                  |
-| 2023    | 3.05           | 2.48                  |
-   
+
+
 ### 6)  New customer's preference
 - Traffic source
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/6.%20New%20Customer%20-%20Traffic%20Source.jpg">
 
 - Buying Behavior
   
-| brand        | brand_purchase_by_new_customer  | revenue ($) |
-|--------------|--------------------------------|---------|
-| Nike         | 13                             | 585.46  |
-| adidas       | 12                             | 408.89  |
-| PUMA         | 7                              | 210.97  |
-| Under Armour | 5                              | 174.93  |
-| Reebok       | 2                              | 127.00  |
-| New Balance  | 1                              | 14.99   |
+
