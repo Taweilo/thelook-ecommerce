@@ -35,12 +35,14 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 ## 3. Analysis
 ### 1) Overall KPI 
 - Performance in 2024 Jan
+  
 | Total revenue ($) | Total_cost ($) | Gross Profit ($) |
 |--------------|------------|--------------|
 |   429657.13  |  206967.73 |   222689.4   |     
 
 
-- Adidas regional performance in 2024 Jan
+- Regional performance in 2024 Jan
+  
 | Country         | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
 |-----------------|---------------|------------|--------------|
 | China           | 138467.32     | 66301.64   | 72165.68     |
@@ -80,17 +82,54 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 
 
 
-### 3) Product performance
+### 3) Popular items
    
-- top 10 adidas's popular product
+- top 10 popular category
+  
+| Category                       | Total Revenue ($) |
+|--------------------------------|---------------|
+| Outerwear & Coats              | 55557.22      |
+| Jeans                          | 52617.5       |
+| Sweaters                       | 31206.6       |
+| Suits & Sport Coats            | 26493.46      |
+| Swim                           | 25270.88      |
+| Fashion Hoodies & Sweatshirts  | 24710.82      |
+| Sleep & Lounge                 | 23366.28      |
+| Shorts                         | 20524.36      |
+| Tops & Tees                    | 18505.96      |
+| Intimates                      | 17674.01      |
   
 
 
-- top 10 adidas's cancelled product
+- top 10 popular brand
   
+| Brand             | Total Revenue ($) |
+|-------------------|---------------|
+| Diesel            | 9709.7        |
+| Calvin Klein      | 8587.29       |
+| True Religion     | 7937.47       |
+| Carhartt          | 7439.68       |
+| 7 For All Mankind | 6021.58       |
+| Joe's Jeans       | 4834.69       |
+| Columbia          | 4274.04       |
+| Tommy Hilfiger    | 4005.61       |
+| Volcom            | 3838.44       |
+| Allegra K         | 3805.76       |
 
 
-- top 10 adidas's returned product
+- top 10 popular product
+| Name                                                  | Total Revenue | Total Cost | Gross Profit | Unit Sold |
+|-------------------------------------------------------|---------------|------------|--------------|-----------|
+| Diesel Men's Lisardo Jacket                           | 1516          | 670.07     | 845.93       | 2         |
+| Canada Goose Men's Lodge Jacket                       | 1200          | 532.8      | 667.2        | 3         |
+| Nicole Miller Women's Halter Jumpsuit                 | 1100          | 612.7      | 487.3        | 2         |
+| Alpha Industries Rip Stop Short                       | 999           | 482.52     | 516.48       | 1         |
+| Nobis Yatesy Parka                                    | 950           | 381.9      | 568.1        | 1         |
+| The North Face Apex Bionic Soft Shell Jacket - Men's  | 903           | 391.9      | 511.1        | 1         |
+| Jordan Low Quarter Sock Style # 427411                | 903           | 537.29     | 365.71       | 1         |
+| The North Face Women's S-XL Oso Jacket                | 903           | 378.36     | 524.64       | 1         |
+| Mens Nike AirJordan Varsity Hoodie Jacket Grey / Black 451582-066 | 903   | 409.06     | 493.94       | 1         |
+| AIR JORDAN DOMINATE SHORTS MENS 465071-100            | 903           | 454.21     | 448.79       | 1         |
   
 
 
@@ -109,17 +148,29 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 
 - Buying Behavior
   
+ | AOV   | APF  | Customer Value |
+|-------|------|----------------|
+| 83.75 | 1.05 | 87.78          |
+ 
+| Avg_recency | Avg_frequency | Avg_monetary |
+|-------------|---------------|--------------|
+| 13.54       | 1.42          | 84.83        |
 
 
 
 
 ### 5) Delivery efficiency
 
+|              | Avg Lead Time | Avg Shipping Duration |
+|--------------|---------------|-----------------------|
+| Overall      | 3.09          | 2.51                  |
+| Domestic     | 3.00          | 2.48                  |
+| Oversea      | 3.12          | 2.53                  |
+
 
 ### 6)  New customer's preference
 - Traffic source
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/6.%20New%20Customer%20-%20Traffic%20Source.jpg">
 
-- Buying Behavior
   
 
