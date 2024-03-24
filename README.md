@@ -36,28 +36,30 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 ### 1) Overall KPI 
 - Performance in 2024 Jan
   
-| Total revenue ($) | Total_cost ($) | Gross Profit ($) |
-|--------------|------------|--------------|
-|   429657.13  |  206967.73 |   222689.4   |     
+| Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
+|-------------------|----------------|------------------|
+|     429,657.13    |    206,967.73  |     222,689.4    |
+
 
 
 - Regional performance in 2024 Jan
   
 | Country         | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
-|-----------------|---------------|------------|--------------|
-| China           | 138467.32     | 66301.64   | 72165.68     |
-| United States   | 100700.23     | 48801.18   | 51899.05     |
-| Brasil          | 68657.79      | 33080.71   | 35577.08     |
-| South Korea     | 24216.06      | 11705.37   | 12510.69     |
-| France          | 19089.77      | 9207.04    | 9882.73      |
-| Germany         | 18142.38      | 8816.84    | 9325.54      |
-| United Kingdom  | 18110.54      | 8781.01    | 9329.53      |
-| Spain           | 14955.57      | 7135.92    | 7819.65      |
-| Japan           | 10533.59      | 5087.42    | 5446.17      |
-| Australia       | 9433.03       | 4496.55    | 4936.48      |
-| Belgium         | 6197.96       | 2996.5     | 3201.46      |
-| Poland          | 1002.05       | 492.47     | 509.58       |
-| Colombia        | 150.84        | 65.08      | 85.76        |
+|-----------------|-------------------|----------------|------------------|
+| China           | 138,467.32        | 66,301.64      | 72,165.68        |
+| United States   | 100,700.23        | 48,801.18      | 51,899.05        |
+| Brasil          | 68,657.79         | 33,080.71      | 35,577.08        |
+| South Korea     | 24,216.06         | 11,705.37      | 12,510.69        |
+| France          | 19,089.77         | 9,207.04       | 9,882.73         |
+| Germany         | 18,142.38         | 8,816.84       | 9,325.54         |
+| United Kingdom  | 18,110.54         | 8,781.01       | 9,329.53         |
+| Spain           | 14,955.57         | 7,135.92       | 7,819.65         |
+| Japan           | 10,533.59         | 5,087.42       | 5,446.17         |
+| Australia       | 9,433.03          | 4,496.55       | 4,936.48         |
+| Belgium         | 6,197.96          | 2,996.5        | 3,201.46         |
+| Poland          | 1,002.05          | 492.47         | 509.58           |
+| Colombia        | 150.84            | 65.08          | 85.76            |
+
 
 
 ### 2) Sales trends
@@ -65,20 +67,21 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/2.%20Sales%20Trend.jpg">
 
 | Year | Month | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
-|------|-------|---------------|------------|--------------|
-| 2024 | 1     | 429657.13     | 206967.73  | 222689.4     |
-| 2023 | 12    | 366083.04     | 175276.49  | 190806.55    |
-| 2023 | 11    | 341790.55     | 163669.56  | 178120.99    |
-| 2023 | 10    | 312906.78     | 150547.74  | 162359.05    |
-| 2023 | 9     | 291911.42     | 140918.17  | 150993.25    |
-| 2023 | 8     | 276600.05     | 133256.34  | 143343.71    |
-| 2023 | 7     | 273314.5      | 130706.16  | 142608.34    |
-| 2023 | 6     | 236056.66     | 112967.63  | 123089.03    |
-| 2023 | 5     | 235039.45     | 113266.13  | 121773.32    |
-| 2023 | 4     | 222483.69     | 107225.3   | 115258.39    |
-| 2023 | 3     | 198496.66     | 94973.58   | 103523.08    |
-| 2023 | 2     | 178984.28     | 85470.73   | 93513.56     |
-| 2023 | 1     | 182464.59     | 87242.47   | 95222.12     |
+|------|-------|-------------------|----------------|------------------|
+| 2024 | 1     | 429,657.13        | 206,967.73     | 222,689.4        |
+| 2023 | 12    | 366,083.04        | 175,276.49     | 190,806.55       |
+| 2023 | 11    | 341,790.55        | 163,669.56     | 178,120.99       |
+| 2023 | 10    | 312,906.78        | 150,547.74     | 162,359.05       |
+| 2023 | 9     | 291,911.42        | 140,918.17     | 150,993.25       |
+| 2023 | 8     | 276,600.05        | 133,256.34     | 143,343.71       |
+| 2023 | 7     | 273,314.5         | 130,706.16     | 142,608.34       |
+| 2023 | 6     | 236,056.66        | 112,967.63     | 123,089.03       |
+| 2023 | 5     | 235,039.45        | 113,266.13     | 121,773.32       |
+| 2023 | 4     | 222,483.69        | 107,225.3      | 115,258.39       |
+| 2023 | 3     | 198,496.66        | 94,973.58      | 103,523.08       |
+| 2023 | 2     | 178,984.28        | 85,470.73      | 93,513.56        |
+| 2023 | 1     | 182,464.59        | 87,242.47      | 95,222.12        |
+
 
 
 
@@ -87,42 +90,40 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 - top 10 popular category
   
 | Category                       | Total Revenue ($) |
-|--------------------------------|---------------|
-| Outerwear & Coats              | 55557.22      |
-| Jeans                          | 52617.5       |
-| Sweaters                       | 31206.6       |
-| Suits & Sport Coats            | 26493.46      |
-| Swim                           | 25270.88      |
-| Fashion Hoodies & Sweatshirts  | 24710.82      |
-| Sleep & Lounge                 | 23366.28      |
-| Shorts                         | 20524.36      |
-| Tops & Tees                    | 18505.96      |
-| Intimates                      | 17674.01      |
-  
-
+|--------------------------------|------------------|
+| Outerwear & Coats              | 55,557.22        |
+| Jeans                          | 52,617.5         |
+| Sweaters                       | 31,206.6         |
+| Suits & Sport Coats            | 26,493.46        |
+| Swim                           | 25,270.88        |
+| Fashion Hoodies & Sweatshirts  | 24,710.82        |
+| Sleep & Lounge                 | 23,366.28        |
+| Shorts                         | 20,524.36        |
+| Tops & Tees                    | 18,505.96        |
+| Intimates                      | 17,674.01        |
 
 - top 10 popular brand
   
 | Brand             | Total Revenue ($) |
-|-------------------|---------------|
-| Diesel            | 9709.7        |
-| Calvin Klein      | 8587.29       |
-| True Religion     | 7937.47       |
-| Carhartt          | 7439.68       |
-| 7 For All Mankind | 6021.58       |
-| Joe's Jeans       | 4834.69       |
-| Columbia          | 4274.04       |
-| Tommy Hilfiger    | 4005.61       |
-| Volcom            | 3838.44       |
-| Allegra K         | 3805.76       |
-
+|-------------------|------------------|
+| Diesel            | 9,709.7          |
+| Calvin Klein      | 8,587.29         |
+| True Religion     | 7,937.47         |
+| Carhartt          | 7,439.68         |
+| 7 For All Mankind | 6,021.58         |
+| Joe's Jeans       | 4,834.69         |
+| Columbia          | 4,274.04         |
+| Tommy Hilfiger    | 4,005.61         |
+| Volcom            | 3,838.44         |
+| Allegra K         | 3,805.76         |
 
 - top 10 popular product
+  
 | Name                                                  | Total Revenue | Total Cost | Gross Profit | Unit Sold |
 |-------------------------------------------------------|---------------|------------|--------------|-----------|
-| Diesel Men's Lisardo Jacket                           | 1516          | 670.07     | 845.93       | 2         |
-| Canada Goose Men's Lodge Jacket                       | 1200          | 532.8      | 667.2        | 3         |
-| Nicole Miller Women's Halter Jumpsuit                 | 1100          | 612.7      | 487.3        | 2         |
+| Diesel Men's Lisardo Jacket                           | 1,516         | 670.07     | 845.93       | 2         |
+| Canada Goose Men's Lodge Jacket                       | 1,200         | 532.8      | 667.2        | 3         |
+| Nicole Miller Women's Halter Jumpsuit                 | 1,100         | 612.7      | 487.3        | 2         |
 | Alpha Industries Rip Stop Short                       | 999           | 482.52     | 516.48       | 1         |
 | Nobis Yatesy Parka                                    | 950           | 381.9      | 568.1        | 1         |
 | The North Face Apex Bionic Soft Shell Jacket - Men's  | 903           | 391.9      | 511.1        | 1         |
@@ -130,7 +131,7 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 | The North Face Women's S-XL Oso Jacket                | 903           | 378.36     | 524.64       | 1         |
 | Mens Nike AirJordan Varsity Hoodie Jacket Grey / Black 451582-066 | 903   | 409.06     | 493.94       | 1         |
 | AIR JORDAN DOMINATE SHORTS MENS 465071-100            | 903           | 454.21     | 448.79       | 1         |
-  
+ 
 
 
 
@@ -148,11 +149,11 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 
 - Buying Behavior
   
- | AOV   | APF  | Customer Value |
+ | AOV ($)   | APF (Times) | Customer Value ($) |
 |-------|------|----------------|
 | 83.75 | 1.05 | 87.78          |
  
-| Avg_recency | Avg_frequency | Avg_monetary |
+| Avg_recency (Day) | Avg_frequency (Times) | Avg_monetary ($)|
 |-------------|---------------|--------------|
 | 13.54       | 1.42          | 84.83        |
 
@@ -161,7 +162,7 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 
 ### 5) Delivery efficiency
 
-|              | Avg Lead Time | Avg Shipping Duration |
+|              | Avg Lead Time (Day) | Avg Shipping Duration (Day)|
 |--------------|---------------|-----------------------|
 | Overall      | 3.09          | 2.51                  |
 | Domestic     | 3.00          | 2.48                  |
