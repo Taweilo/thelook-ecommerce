@@ -16,7 +16,7 @@ TheLook is a fictitious eCommerce clothing site developed by the Looker team. Th
     <img width="80%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ER%20Diagram.jpg">
 </p>
 
-- Entity & Columns
+- Table & Columns
   
 | Table Name           | Columns                                                                                                                                                                        |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
