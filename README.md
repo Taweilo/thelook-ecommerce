@@ -142,6 +142,10 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
    
 - Age Group profile
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/4.%20Age%20group%20profile.jpg">
+Teens: 13~19 (include 13 & 19)
+Young Adults: 20~35
+Adults: 36~50
+Seniors: 50+
 
 - Country profile
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/4.%20Country%20profile.jpg"> 
