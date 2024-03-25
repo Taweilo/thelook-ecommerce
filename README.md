@@ -90,7 +90,7 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 ### 3) Popular items
    
 - top 10 popular category
-<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.%20Ppopular%20category.jpg">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.%20Popular%20category.jpg">
 
 | Category                       | Total Revenue ($) |
 |--------------------------------|------------------|
@@ -147,7 +147,7 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/4.%20Country%20profile.jpg"> 
 
 - Gender profile
-<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/4.%20Gender%20profile.jpgg">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/4.%20Gender%20profile.jpg">
 
 - Buying Behavior
   
