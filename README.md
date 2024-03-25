@@ -64,7 +64,9 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 
 ### 2) Sales trends
 
-<img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/2.%20Sales%20Trend.jpg">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/2.%20Sales%20trend.jpg">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/2.%20Revenue%20year%20comparison.jpg">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/2.%20Revenue%20month%20comparison.jpg">
 
 | Year | Month | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
 |------|-------|-------------------|----------------|------------------|
@@ -88,7 +90,8 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 ### 3) Popular items
    
 - top 10 popular category
-  
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.%20Ppopular%20category.jpg">
+
 | Category                       | Total Revenue ($) |
 |--------------------------------|------------------|
 | Outerwear & Coats              | 55,557.22        |
@@ -138,18 +141,17 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 ### 4) Customer profile
    
 - Age Group profile
-<img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/4.%20Age%20Group%20Profile.jpg">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/4.%20Age%20group%20profile.jpg">
 
 - Country profile
-  
-
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/4.%20Country%20profile.jpg"> 
 
 - Gender profile
-<img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/4.%20Gender%20Profile.jpg">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/4.%20Gender%20profile.jpgg">
 
 - Buying Behavior
   
- | AOV ($)   | APF (Times) | Customer Value ($) |
+| AOV ($)   | APF (Times) | Customer Value ($) |
 |-------|------|----------------|
 | 83.75 | 1.05 | 87.78          |
  
@@ -162,6 +164,8 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 
 ### 5) Delivery efficiency
 
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/5.%20Delivery%20efficency.jpg">
+
 |              | Avg Lead Time (Day) | Avg Shipping Duration (Day)|
 |--------------|---------------|-----------------------|
 | Overall      | 3.09          | 2.51                  |
@@ -171,7 +175,7 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 
 ### 6)  New customer's preference
 - Traffic source
-<img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/6.%20New%20Customer%20-%20Traffic%20Source.jpg">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/6.%20Traffic%20source.jpg">
 
   
 
