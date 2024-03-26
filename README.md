@@ -44,7 +44,7 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 
 
 
-- Regional performance in 2024 Jan
+- Regional performance in 2024 Jan (Order by Reve DESC)
   
 | Country         | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
 |-----------------|-------------------|----------------|------------------|
@@ -160,12 +160,12 @@ Seniors: 50+ <br>
 | AOV ($)   | APF (Times) | Customer Value ($) |
 |-------|------|----------------|
 | 83.75 | 1.05 | 87.78          |
+AOV: Average order value
+APF: average purchase frequency - Number of purchases/number of customers
  
 | Avg_recency (Day) | Avg_frequency (Times) | Avg_monetary ($)|
 |-------------|---------------|--------------|
 | 13.54       | 1.42          | 84.83        |
-
-
 
 
 ### 5) Delivery efficiency
@@ -178,6 +178,8 @@ Seniors: 50+ <br>
 | Domestic     | 3.00          | 2.48                  |
 | Oversea      | 3.12          | 2.53                  |
 
+Lead Time: created ~ delivered
+Shipping duration: shipped ~ delivered
 
 ### 6)  New customer's preference
 - Traffic source
