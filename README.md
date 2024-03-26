@@ -34,7 +34,7 @@ TheLook is a fictitious eCommerce clothing site developed by the Looker team. Th
 ## 2. Objective
 The goal is to utilize SQL queries to delve into the dataset and extract valuable insights that can enhance business performance for theLook. This includes areas such as sales optimization, marketing effectiveness, and supply chain management efficiency.
 
-## 3.1 CRM Analysis
+## 3.1 CRM Analysis (2024 Jan)
 ### 1) Overall KPI 
 - Performance in 2024 Jan
   
@@ -160,6 +160,7 @@ Seniors: 50+ <br>
 | AOV ($)   | APF (Times) | Customer Value ($) |
 |-------|------|----------------|
 | 83.75 | 1.05 | 87.78          |
+
 AOV: Average order value
 APF: average purchase frequency - Number of purchases/number of customers
  
@@ -221,6 +222,6 @@ Shipping duration: shipped ~ delivered
 | Saved miles          | 5,895,791.92    |
 
 
-## 3.4 Time-series analysis
+## 3.4 Time-series analysis (2019-01~2024-03)
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.3%20TS%20plot.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.3%20Prophet%20predictions.png">
