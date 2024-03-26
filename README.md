@@ -184,9 +184,30 @@ Seniors: 50+ <br>
   
 ## 3.2 RFM analysis for 2019~2024
 <img width="60%" src="https://clevertap.com/wp-content/uploads/2018/03/Incontent_image.png">
-<img width="60%" src="https://clevertap.com/wp-content/uploads/2018/03/Incontent_image.png">
-<img width="60%" src="https://clevertap.com/wp-content/uploads/2018/03/Incontent_image.png">
-<img width="60%" src="https://clevertap.com/wp-content/uploads/2018/03/Incontent_image.png">
-## 3.3 Distribution centers analysis
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.1%20RFM%20distribution.png">
+
+| Segment                   | Description                                                                                      |
+|---------------------------|--------------------------------------------------------------------------------------------------|
+| Champions                 | Bought recently, buy often, and spend the most.                                                  |
+| Loyal Customers           | Buy on a regular basis and are responsive to promotions.                                         |
+| Potential Loyalist        | Recent customers with average frequency.                                                         |
+| Recent Customers          | Bought most recently but not often.                                                               |
+| Promising                 | Recent shoppers who haven't spent much.                                                           |
+| Customers Needing Attention | Above-average recency, frequency, and monetary values. May not have bought very recently.      |
+| About To Sleep            | Below-average recency and frequency. Will lose them if not reactivated.                           |
+| At Risk                   | Purchased often but a long time ago. Need to bring them back!                                     |
+| Can’t Lose Them           | Used to purchase frequently but haven’t returned for a long time.                                  |
+| Hibernating               | Last purchase was a long time ago with a low number of orders. May be lost.                        |
+
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.1%20RFM%20table.jpg">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.1%20RFM%20results.png">
+<img width="60%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*pGS1-NwGc_87IBtY">
+
+
+## 3.3 Distribution centers analysis (2023 Data)
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Caurrent%20distribution%20centeres.png">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Elbow%20method.png">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20K-medians%20clusters.png">
 
 ## 3.4 Time-series analysis
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.3%20TS%20plot.png">
