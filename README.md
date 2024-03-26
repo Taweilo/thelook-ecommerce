@@ -32,7 +32,7 @@ TheLook is a fictitious eCommerce clothing site developed by the Looker team. Th
 ## 2. Objective
 The goal is to utilize SQL queries to delve into the dataset and extract valuable insights that can enhance business performance for theLook. This includes areas such as sales optimization, marketing effectiveness, and supply chain management efficiency.
 
-## 3. Analysis
+## 3.1 CRM Analysis
 ### 1) Overall KPI 
 - Performance in 2024 Jan
   
@@ -182,4 +182,11 @@ Seniors: 50+ <br>
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/6.%20Traffic%20source.jpg">
 
   
+## 3.2 RFM analysis for 2019~2024
+<img width="60%" src="https://clevertap.com/wp-content/uploads/2018/03/Incontent_image.png">
+<img width="60%" src="https://clevertap.com/wp-content/uploads/2018/03/Incontent_image.png">
+<img width="60%" src="https://clevertap.com/wp-content/uploads/2018/03/Incontent_image.png">
+<img width="60%" src="https://clevertap.com/wp-content/uploads/2018/03/Incontent_image.png">
+## 3.3 Distribution centers analysis
 
+## 3.4 Time-series analysis
