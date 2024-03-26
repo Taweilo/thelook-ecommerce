@@ -207,7 +207,7 @@ Seniors: 50+ <br>
 
 
 ## 3.3 Distribution centers analysis (2023 Data)
-<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Caurrent%20distribution%20centeres.png">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Current%20distribution%20centeres.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Elbow%20method.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20K-medians%20clusters.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Comparisons.png">
