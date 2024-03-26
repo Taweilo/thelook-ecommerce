@@ -208,6 +208,8 @@ Seniors: 50+ <br>
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Caurrent%20distribution%20centeres.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Elbow%20method.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20K-medians%20clusters.png">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Comparisons.png">
 
 ## 3.4 Time-series analysis
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.3%20TS%20plot.png">
+<img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.3%20Prophet%20predictions.png">
