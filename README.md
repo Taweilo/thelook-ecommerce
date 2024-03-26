@@ -1,10 +1,12 @@
 # theLook ecommerce Project
 
 ```
-├── Image                       
+├── Image
+├── Data                        
 │
-├── Adidas_SQL code.ipynb                             <- SQL code
-├── README.md                                         <- read me
+├── theLook_SQL_code.ipynb                               <- SQL code
+├── theLook_rfm_delivery_time_series_analysis.ipynb      <- Python code
+├── README.md                                            <- read me
 
 ```
 ## 1. Introduction
