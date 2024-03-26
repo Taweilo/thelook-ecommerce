@@ -202,17 +202,24 @@ Shipping duration: shipped ~ delivered
 | At Risk                   | Purchased often but a long time ago. Need to bring them back!                                     |
 | Can’t Lose Them           | Used to purchase frequently but haven’t returned for a long time.                                  |
 | Hibernating               | Last purchase was a long time ago with a low number of orders. May be lost.                        |
-
+<img width="60%" src="https://guillaume-martin.github.io/images/rfm-segments.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.1%20RFM%20table.jpg">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.1%20RFM%20results.png">
 <img width="60%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*pGS1-NwGc_87IBtY">
 
 
-## 3.3 Distribution centers analysis (2023 Data)
+## 3.3 Distribution centers analysis (2023 Data - Reevaluation of 10 distribution centers)
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Current%20distribution%20centeres.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Elbow%20method.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20K-medians%20clusters.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Comparisons.png">
+
+| Description          | Distance (miles) |
+|----------------------|------------------|
+| Centroids distance   | 1,194,912.93    |
+| Current DC distance  | 7,090,704.85    |
+| Saved miles          | 5,895,791.92    |
+
 
 ## 3.4 Time-series analysis
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.3%20TS%20plot.png">
