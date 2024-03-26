@@ -161,7 +161,7 @@ Seniors: 50+ <br>
 |-------|------|----------------|
 | 83.75 | 1.05 | 87.78          |
 
-AOV: Average order value
+AOV: Average order value <br>
 APF: average purchase frequency - Number of purchases/number of customers
  
 | Avg_recency (Day) | Avg_frequency (Times) | Avg_monetary ($)|
@@ -179,7 +179,7 @@ APF: average purchase frequency - Number of purchases/number of customers
 | Domestic     | 3.00          | 2.48                  |
 | Oversea      | 3.12          | 2.53                  |
 
-Lead Time: created ~ delivered
+Lead Time: created ~ delivered <br>
 Shipping duration: shipped ~ delivered
 
 ### 6)  New customer's preference
@@ -212,6 +212,21 @@ Shipping duration: shipped ~ delivered
 ## 3.3 Distribution centers analysis (2023 Data - Reevaluation of 10 distribution centers)
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Current%20distribution%20centeres.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Elbow%20method.png">
+The Elbow Method is a technique used in clustering analysis to determine the optimal number of clusters in a dataset. It is based on the concept that as the number of clusters increases, the within-cluster sum of squares (WSS) decreases. <br><br>
+The within-cluster sum of squares (WSS) is calculated using the following formula:
+
+$$
+WSS = \sum_{i=1}^{K} \sum_{x \in C_i} ||x - c_i||^2
+$$
+
+where:
+- $K$ is the number of clusters.
+- $C_i$ is the i-th cluster.
+- $x$ is a data point in cluster $C_i$.
+- $c_i$ is the centroid of cluster $C_i$.
+- $||x - c_i||$ represents the Euclidean distance between data point x and its cluster centroid $c_i$.
+
+The WSS is a measure of how compact the clusters are, with lower WSS values indicating tighter clusters and better overall clustering.
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20K-medians%20clusters.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Comparisons.png">
 
