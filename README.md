@@ -240,3 +240,17 @@ The WSS is a measure of how compact the clusters are, with lower WSS values indi
 ## 3.4 Time-series analysis (2019-01~2024-03)
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.3%20TS%20plot.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.3%20Prophet%20predictions.png">
+The final forecast in Prophet is composed additively, combining different components:
+
+$$
+ y(t) = g(t) + s(t) + h(t) + e(t) 
+$$
+
+Where:
+- $ y(t) $ is the forecasted value at time \( t \).
+- $ g(t) $ represents the trend component.
+- $ s(t) $ represents the seasonal component.
+- $ h(t) $ represents the holiday effect component.
+- $ e(t) $ represents the residual component, capturing uncertainty or unexplained variations.
+
+This additive composition allows Prophet to model complex time series patterns by combining trends, seasonalities, holiday effects, and residual fluctuations.
