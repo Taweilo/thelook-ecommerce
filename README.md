@@ -231,11 +231,12 @@ The WSS is a measure of how compact the clusters are, with lower WSS values indi
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20K-medians%20clusters.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Comparisons.png">
 
-| Description          | Distance (miles) |
-|----------------------|------------------|
-| Centroids distance   | 1,194,912.93    |
-| Current DC distance  | 7,090,704.85    |
-| Saved miles          | 5,895,791.92    |
+| Description         | Euclidean Distance (km) | Manhattan Distance (km) |
+|---------------------|-------------------------|-------------------------|
+| Centroids distribution distance  | 1,194,912.93            | 1,688,942.69            |
+| Current DC distance | 7,090,704.85            | 10,185,974.77           |
+| Diff km             | 5,895,791.92            | 8,497,032.08            |
+| % reduce            | 83.15 %                 | 83.42 %                 |
 
 
 ## 3.4 Time-series analysis (2019-01~2024-03)
