@@ -249,10 +249,10 @@ $$
 $$
 
 Where:
-- $ y(t) $ is the forecasted value at time \( t \).
-- $ g(t) $ represents the trend component.
-- $ s(t) $ represents the seasonal component.
-- $ h(t) $ represents the holiday effect component.
-- $ e(t) $ represents the residual component, capturing uncertainty or unexplained variations.
+- $y(t)$ is the forecasted value at time $t$.
+- $g(t)$ represents the trend component.
+- $s(t)$ represents the seasonal component.
+- $h(t)$ represents the holiday effect component.
+- $e(t)$ represents the residual component, capturing uncertainty or unexplained variations.
 
 This additive composition allows Prophet to model complex time series patterns by combining trends, seasonalities, holiday effects, and residual fluctuations.
