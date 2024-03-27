@@ -18,7 +18,7 @@ TheLook is a fictitious eCommerce clothing site developed by the Looker team. Th
     <img width="80%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ER%20Diagram.jpg">
 </p>
 
-- Table & Columns
+- 7 Tables & Columns
   
 | Table Name           | Columns                                                                                                                                                                        |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,7 +43,6 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 |     429,657.13    |    206,967.73  |     222,689.4    |
 
 
-
 - Regional performance in 2024 Jan (Order by Reve DESC)
   
 | Country         | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
@@ -63,9 +62,8 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 | Colombia        | 150.84            | 65.08          | 85.76            |
 
 
-
 ### 2) Sales trends
-
+- 2023-01~2024-1
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/2.%20Sales%20trend.jpg">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/2.%20Revenue%20year%20comparison.jpg">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/2.%20Revenue%20month%20comparison.jpg">
@@ -182,7 +180,7 @@ APF: average purchase frequency - Number of purchases/number of customers
 Lead Time: created ~ delivered <br>
 Shipping duration: shipped ~ delivered
 
-### 6)  New customer's preference
+### 6)  New customer 
 - Traffic source
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/6.%20Traffic%20source.jpg">
 
@@ -204,8 +202,10 @@ Shipping duration: shipped ~ delivered
 | Can’t Lose Them           | Used to purchase frequently but haven’t returned for a long time.                                  |
 | Hibernating               | Last purchase was a long time ago with a low number of orders. May be lost.                        |
 <img width="60%" src="https://guillaume-martin.github.io/images/rfm-segments.png">
+- RFM Analysis Result
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.1%20RFM%20table.jpg">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.1%20RFM%20results.png">
+- Action Plan
 <img width="60%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*pGS1-NwGc_87IBtY">
 
 
