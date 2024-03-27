@@ -202,10 +202,15 @@ Shipping duration: shipped ~ delivered
 | Can’t Lose Them           | Used to purchase frequently but haven’t returned for a long time.                                  |
 | Hibernating               | Last purchase was a long time ago with a low number of orders. May be lost.                        |
 <img width="60%" src="https://guillaume-martin.github.io/images/rfm-segments.png">
+
 - RFM Analysis Result
+  
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.1%20RFM%20table.jpg">
+
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.1%20RFM%20results.png">
+
 - Action Plan
+
 <img width="60%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*pGS1-NwGc_87IBtY">
 
 
