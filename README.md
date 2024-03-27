@@ -218,9 +218,9 @@ Shipping duration: shipped ~ delivered
 - Reevaluation of 10 distribution centers
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Current%20distribution%20centeres.png">
 <img width="60%" src="https://github.com/Taweilo/theLook_ecommerce/blob/main/Image/3.2%20Elbow%20method.png">
-The Elbow Method is a technique used in clustering analysis to determine the optimal number of clusters in a dataset. It is based on the concept that as the number of clusters increases, the within-cluster sum of squares (WSS) decreases. <br><be>
+The Elbow Method is a technique used in clustering analysis to determine the optimal number of clusters in a dataset. It is based on the concept that as the number of clusters increases, the within-cluster sum of squares (WSS) decreases. <br><br>
 
-**within-cluster sum of squares (WSS)** :
+**Within-cluster Sum of Squares (WSS)** :
 
 $$
 WSS = \sum_{i=1}^{K} \sum_{x \in C_i} ||x - c_i||^2
