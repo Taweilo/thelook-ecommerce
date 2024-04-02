@@ -4,9 +4,10 @@
 ├── Image
 ├── Data                        
 │
+├── README.md                                            <- read me
 ├── theLook_SQL_code.ipynb                               <- SQL code
 ├── theLook_rfm_delivery_time_series_analysis.ipynb      <- Python code
-├── README.md                                            <- read me
+├── theLook - presentation                               <- slide pdf
 
 ```
 ## 1. Introduction
@@ -268,3 +269,15 @@ Where:
 - $e(t)$ represents the residual component, capturing uncertainty or unexplained variations.
 
 This additive composition allows Prophet to model complex time series patterns by combining trends, seasonalities, holiday effects, and residual fluctuations.
+
+## 4. Limitations & future prospective
+- Database design: some features are repetitive in different tables
+- Database feature: more information should be incorporated
+- Assumptions: synthetic data makes the data value dynamic
+- Business value: lack of insider information to customize the business value
+- Data model: for the time series model a more complex model can be developed to describe the pattern well
+  
+## 5. Recommendations
+- Leveraged CRM monthly reports can identify the performance with ease
+- RFM analysis benefits the customized marketing plan effectively and the matrics can be updated
+- The location of distribution centers deserves to be reviewed and incorporated more business insider information to calculate the business value
