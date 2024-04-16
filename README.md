@@ -36,6 +36,7 @@ TheLook is a fictitious eCommerce clothing site developed by the Looker team. Th
 The goal is to utilize SQL queries to delve into the dataset and extract valuable insights that can enhance business performance for theLook. This includes areas such as sales optimization, marketing effectiveness, and supply chain management efficiency.
 
 ## 3.1 CRM Analysis (2024 Jan)
+https://app.powerbi.com/groups/me/reports/f57ccabf-6fa3-44ec-85c3-28e9cdb24809/ReportSection1054f55d7c2397d9204a?experience=power-bi
 ### 1) Overall KPI 
 - Performance in 2024 Jan
   
