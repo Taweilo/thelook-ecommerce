@@ -1,8 +1,8 @@
 # theLook ecommerce Project
 
 ```
-├── Image
-├── Data                        
+├── Image/
+├── Data/                        
 │
 ├── README.md                                            <- read me
 ├── theLook_SQL_code.ipynb                               <- SQL code
